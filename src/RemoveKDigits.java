@@ -25,6 +25,6 @@ public class RemoveKDigits {
     }
     public static void main(String[] args) {
         RemoveKDigits obj = new RemoveKDigits();
-        System.out.println(obj.removeKdigits("234",2));
+        System.out.println(obj.removeKdigits("123",1));
     }
 }
